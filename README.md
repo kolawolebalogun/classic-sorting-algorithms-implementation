@@ -6,4 +6,5 @@ Implementation of the classic sorting algorithm
 
 This code has been tested in the following environments
 
+
 * Python (3.6)
